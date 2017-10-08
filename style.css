@@ -4,6 +4,10 @@ body {
  background-color: #141414;
 }
 
+footer span { 
+    background-color: black; 
+}
+
 h3 {
  color: green;
 }
