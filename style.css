@@ -1,0 +1,11 @@
+body {
+    font-family: 'Sofia'; font-size: 22px;
+}
+
+#alert {
+ text-color: red;
+}
+
+#notice {
+
+}
