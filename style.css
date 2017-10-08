@@ -5,7 +5,7 @@ body {
     background: -o-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
     background: -moz-linear-gradient(right, #93B874, #C9DCB9); /* ending on the right */
     background: linear-gradient(to right, #93B874, #C9DCB9); /* moving to the right */
-    background-color: #93B874; /* It's a good idea to set a background color in case the gradient doesn't load */
+    background-color: #141414; /* It's a good idea to set a background color in case the gradient doesn't load */
 }
 </style>
 </head>
